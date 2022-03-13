@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +89,7 @@
   },
   "active": "95ba456f8720d702",
   "lastOpenFiles": [
-    "README.md.md",
+    "README.md",
     "CCCNA 300-201.md",
     "Labs/Lab Day 3.md",
     "Labs/Lab Day 2.md",
