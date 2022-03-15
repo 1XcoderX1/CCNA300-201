@@ -8,7 +8,7 @@ I learned about the kinds of devices I will find in modern networks, their funct
 I learned about the kinds of network interfaces and cables used to connect network devices together.
 ### [[Lab Day 2]]
 
-# Day 3 [[OSI Model & TCP IP Suite]]
+# Day 3 [[Day 3]]
 ### [[Lab Day 3]]
 # Day 4
 # Day 5
