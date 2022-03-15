@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Day 3/TCP IP Suite.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day 3/TCP IP Suite.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "95ba456f8720d702",
   "lastOpenFiles": [
+    "README.md",
     "Day 3/TCP IP Suite.md",
     "Day 3/Protocol.md",
     "Day 3/Networking Model.md",
@@ -96,7 +97,6 @@
     "Day 3/OSI Model/OSI Model Layers.md",
     "Day 3/OSI Model/OSI Model.md",
     "Images/networking_model.png",
-    "README.md",
     "CCCNA 300-201.md",
     "Labs/Lab Day 3.md"
   ]
