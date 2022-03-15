@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Day1/NetworkingDevices.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8f07cbf7c3e98375",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Day1/NetworkingDevices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,8 +99,8 @@
   },
   "active": "95ba456f8720d702",
   "lastOpenFiles": [
-    "README.md",
     "Day1/NetworkingDevices.md",
+    "README.md",
     "Day 1/Networking.md",
     "Labs/Lab Day 3.md",
     "Day 3/TCP IP Suite.md",
