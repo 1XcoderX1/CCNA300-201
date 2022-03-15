@@ -7,8 +7,12 @@
         "id": "95ba456f8720d702",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -74,8 +79,17 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "6cea78e78881c46d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,13 +100,13 @@
   "lastOpenFiles": [
     "README.md",
     "Day 1/Networking Devices.md",
+    "Day 1/Networking.md",
+    "Labs/Lab Day 3.md",
     "Day 3/TCP IP Suite.md",
     "Day 3/Protocol.md",
     "Day 3/Networking Model.md",
     "Day 3/Day 3.md",
     "Day 3/OSI Model/OSI Model Layers.md",
-    "Day 3/OSI Model/OSI Model.md",
-    "Images/networking_model.png",
-    "CCCNA 300-201.md"
+    "Day 3/OSI Model/OSI Model.md"
   ]
 }
