@@ -1,7 +1,7 @@
 # CCNA 300-201 notes repository
 
-# [[Networking Devices]]
-# [Day 1](/Day%201/Networking%20Devices)
+# [[NetworkingDevices]]
+# [Day 1](NetworkingDevices.md)
 I learned about the kinds of devices I will find in modern networks, their functions in the network, and their differences.
 ### [[Lab Day 1]]
 
