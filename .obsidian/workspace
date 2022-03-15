@@ -7,12 +7,8 @@
         "id": "95ba456f8720d702",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "README.md",
-            "mode": "preview",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,6 +85,7 @@
   "active": "95ba456f8720d702",
   "lastOpenFiles": [
     "README.md",
+    "Day 1/Networking Devices.md",
     "Day 3/TCP IP Suite.md",
     "Day 3/Protocol.md",
     "Day 3/Networking Model.md",
@@ -97,7 +93,6 @@
     "Day 3/OSI Model/OSI Model Layers.md",
     "Day 3/OSI Model/OSI Model.md",
     "Images/networking_model.png",
-    "CCCNA 300-201.md",
-    "Labs/Lab Day 3.md"
+    "CCCNA 300-201.md"
   ]
 }
