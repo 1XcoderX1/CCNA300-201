@@ -1,11 +1,11 @@
 # CCNA 300-201 Obsidian Vault
 
-# [[Networking Devices]]
+# [[Day 1]]
 
 I learned about the kinds of devices I will find in modern networks, their functions in the network, and their differences.
 ### [[Lab Day 1]]
 
-# [[Interfaces & Cables]]
+# [[Day 2]]
 I learned about the kinds of network interfaces and cables used to connect network devices together.
 ### [[Lab Day 2]]
 

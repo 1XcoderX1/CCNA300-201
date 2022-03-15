@@ -11,3 +11,4 @@ If we have a cluster of PCs from various makers, if there is no tandardization f
 ## [[TCP IP Suite]]
 
 
+#day

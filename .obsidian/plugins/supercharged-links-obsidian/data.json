@@ -1,0 +1,29 @@
+{
+  "targetAttributes": [],
+  "targetTags": true,
+  "presetFields": [],
+  "displayFieldsInContextMenu": true,
+  "globallyIgnoredFields": [],
+  "classFilesPath": "",
+  "getFromInlineField": true,
+  "activateSnippet": true,
+  "enableEditor": true,
+  "enableFileList": true,
+  "enableBacklinks": true,
+  "enableQuickSwitcher": true,
+  "enableSuggestor": true,
+  "selectors": [
+    {
+      "type": "tag",
+      "name": "",
+      "value": "day",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "66c4-98ee",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    }
+  ]
+}
