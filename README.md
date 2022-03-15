@@ -1,7 +1,7 @@
-# CCNA 300-201 notes repository
+# CCNA 300-201 Obsidian Vault
 
-# [[NetworkingDevices]]
-# [Day 1](NetworkingDevices.md)
+# [[Networking Devices]]
+
 I learned about the kinds of devices I will find in modern networks, their functions in the network, and their differences.
 ### [[Lab Day 1]]
 
