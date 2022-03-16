@@ -1,4 +1,4 @@
-# CCNA Day 3 - OSI Model & TCP/IP Suite
+# OSI Model & TCP/IP Suite
 ## [[Networking Model]]
 ## [[Protocol]]
 ![[networking_model.png]]

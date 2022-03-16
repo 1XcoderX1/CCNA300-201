@@ -12,7 +12,7 @@ I learned about the kinds of network interfaces and cables used to connect netwo
 # [[Day 3]]
 I learned about the OSI model and its various layers. Then build upon that by understanding the differences between the TCP/IP Suite and the OSI model.
 ### [[Lab Day 3]]
-# Day 4
+# [[Day 4]]
 # Day 5
 # Day 6
 # Day 7
