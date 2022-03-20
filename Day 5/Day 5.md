@@ -1,8 +1,8 @@
 # Ethernet LAN Switching (Part 1)
 Let us review the Physical and Data Link layers of the OSI Model:
 
-[[OSI Model Layers#Physical Layer 1]]
-[[OSI Model Layers#Data Link Layer 2]]
+[[OSI Model Layers#Physical Layer 1 | Physical Layer]]
+[[OSI Model Layers#Data Link Layer 2 | Data Link Layer]]
 
 In this session we are going to look at ethernet LAN switching, which involves the Physical & Data Link laters of the OSI model. Since we have already talked about various Layer 1 standards such as UTP cables, we should focus more on Layer 2.
 
