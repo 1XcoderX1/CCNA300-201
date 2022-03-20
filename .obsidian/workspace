@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Day 6/Day 6.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day 6/Day 6.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "95ba456f8720d702",
   "lastOpenFiles": [
+    "README.md",
     "Day 6/Day 6.md",
+    "Day 1/Day 1.md",
     "eht.md",
     "Day 5/Day 5.md",
     "Day 5/Decimals & Hexadecimals.md",
     "Day 3/Day 3.md",
     "Day 3/TCP IP Suite.md",
     "Day 3/Protocol.md",
-    "Day 3/Networking Model.md",
-    "Day 3/OSI Model/OSI Model Layers.md",
-    "Day 2/Day 2.md"
+    "Day 3/Networking Model.md"
   ]
 }

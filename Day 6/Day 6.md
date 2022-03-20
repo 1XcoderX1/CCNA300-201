@@ -2,6 +2,7 @@
 We will continue talking about sendibng data locally. 
 We talked about [[Day 5#Ethernet Frame | ethernet frames]] in the last session.
 
+## Ethernet Frame Payload Minimum Size
 ![[eth_frame_header_length.png]]
 
 * The Preamble + SFD is not usually not considered part of the Ethernet header. Therefore the size of the Ethernet header + trailer is 18 bytes (6+6+2+4). 

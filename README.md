@@ -15,6 +15,12 @@ I learned about the OSI model and its various layers. Then build upon that by un
 # [[Day 4]]
 # [[Day 5]]
 Ethernet LAN Switching
-# Day 6
+# [[Day 6]]
+* [[Day 6#Ethernet Frame Payload Minimum Size | Ethernet Frame Payload Minimum Size]]
+* [[Day 6#ARP Address Resolution Protocol | ARP (Address Resolution Protocol)]]
+* [[Day 6#ARP Table | ARP Table]]
+* [[Day 6#Ping | Ping]]
+* [[Day 6#MAC Address tables on Switches | MAC Address Table]]
+ 
 # Day 7
 
