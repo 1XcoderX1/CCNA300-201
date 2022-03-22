@@ -11,11 +11,11 @@
 
 # [[Day 3]]
 ## OSI Model & TCP/IP Suite
-* [[Networking Model]]
-* [[Protocol]]
-* [[OSI Model]]
-* [[OSI Model Layers]]
-* [[TCP IP Suite]]
+* [[Day 3#What is a networking model|What is a Networking Model?]]
+* [[Day 3#Protocol|Protocol]]
+* [[Day 3#Networks without Standardization|Networking without Standardization]]
+* [[Day 3#OSI Model|OSI Model]]
+* [[Day 3#OSI vs TCP IP |OSI vs TCP/IP]]
 
 # [[Day 4]]
 ## Intro to the CLI
@@ -44,4 +44,10 @@
  
 # [[Day 7]]
 ## IPv4 Addressing
-* 
+* [[Day 7#Routing | Routing]]
+* [[Day 7#IPv4 Header | IPv4 Header]]
+* [[Day 7#IPv4 Addresses | IPv4 Addresses]]
+* [[Day 7#IPv4 Address Classes | IPv4 Address Classes]]
+* [[Day 7#Netmask | Netmask]]
+* [[Day 7#Network Address | Network Address]]
+* [[Day 7#Broadcast Address | Broadcast Address]]
