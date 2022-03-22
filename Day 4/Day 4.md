@@ -43,7 +43,7 @@ To enter privileged EXEC mode, we have to execute the `enable` command.
 * Cannot change the configuration, but can change the time on the device, save the configuration file, etc.
 * However, you can't change the time on the device or save a new configuration file, among many other things.
 
-### User EXEC Mode vs Privileged EXEC Mode
+## User EXEC Mode vs Privileged EXEC Mode
 ![[userEXECmodevsPrivilegedEXECmode.png]]
 This image is from the Cisco packet tracer software. The real device has many more commands than these.
 
@@ -52,18 +52,17 @@ This image is from the Cisco packet tracer software. The real device has many mo
 
 The CLI also supports the autocomplete feature and there are short commands as well for e.g., `en = enable`.
 
-#### Commands:
+### Commands:
 
-##### Configure terminal
+#### Configure terminal
 `configure terminal`  or `conf t` 
 
-##### Enable Password
+#### Enable Password
 `enable password PASSWORD` to set a password for privileged EXEC mode
 Passwords are case sensitive. The password does not show while typing. If wrong password entered 3 times, *Bad Password* is shown by the CLI.
 
-##### Exit
+#### Exit
 `exit` or `ex`
-
 
 ## Configuration files
 There are two separate configuration fdiles kept on the device at once.
