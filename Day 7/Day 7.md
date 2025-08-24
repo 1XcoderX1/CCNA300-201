@@ -17,7 +17,7 @@ Now, what would happen if a router is put between SW1 and SW2?
 
 ![[routing1.png]]
 
-This separates the network into 2 separate networks. PC1 and PC2 ave their own IP address calssification now which is different from PC3 and PC4, which are on the other side of the router. We can see that the first 3 groups of numbers in the IP address represent the network itself and only the last group changes to represent host devices. The 24 at the end is telling us about which part of the IP address is to be used to represent the network. '24' means the first 3 groups are representing the network and the last is being used for the end host devices. Before we dive deep into the details of IP addresses, there is something missing from this network diagram. An IP address for the router. As it is connected to 2 LANs, it should get an IP address for each LAN:
+This separates the network into 2 separate networks. PC1 and PC2 are their own IP address classification now which is different from PC3 and PC4, which are on the other side of the router. We can see that the first 3 groups of numbers in the IP address represent the network itself and only the last group changes to represent host devices. The 24 at the end is telling us about which part of the IP address is to be used to represent the network. '24' means the first 3 groups are representing the network and the last is being used for the end host devices. Before we dive deep into the details of IP addresses, there is something missing from this network diagram. An IP address for the router. As it is connected to 2 LANs, it should get an IP address for each LAN:
 
 ![[routing2.png]]
 
@@ -100,7 +100,7 @@ These are essentially the same binary numbers written in different ways to make 
 If the host portion of the address is all 0s, then it is the **Network Address**. E.g., 192.168.1.0/24 is a network address. This address cannot be assigned to a host. It is always the first address in a network. But the first *usable* address is one up the network address. In this case its, 192.168.1.1.
 
 ## Broadcast Address
-If the host portion of the address is all 1s, then it is the **Broadcast Address**. E.g., 192.168.1.255/24 is a broadcast address. This address also cannot be assigned to a host. Although it is the last address in the network, the lsat *usable* address in the network is one before the broadcast address. This address is used to send a broadcast packet to all hosts in the network. So, if the destination IP of the packet is set to 192.168.1.255 then what do you think the MAC address would be of the encapsulated frame?  It will be FFFF.FFFF.FFFF. 
+If the host portion of the address is all 1s, then it is the **Broadcast Address**. E.g., 192.168.1.255/24 is a broadcast address. This address also cannot be assigned to a host. Although it is the last address in the network, the last *usable* address in the network is one before the broadcast address. This address is used to send a broadcast packet to all hosts in the network. So, if the destination IP of the packet is set to 192.168.1.255 then what do you think the MAC address would be of the encapsulated frame?  It will be FFFF.FFFF.FFFF. 
 
 
 
