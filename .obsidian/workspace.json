@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1ce5238ad999c1c7",
+        "id": "ca794752bf4969f1",
         "type": "tabs",
         "children": [
           {
-            "id": "f00f51f06225ac0a",
+            "id": "ba7c8db7415ce509",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day 7/Day 7.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 7"
+              "title": "README"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "635158c106237632",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day 7/Day 7.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Day 7"
+              "title": "Backlinks for README"
             }
           }
         ]
@@ -125,6 +124,8 @@
       "bases:Create new base": false
     }
   },
-  "active": "f00f51f06225ac0a",
-  "lastOpenFiles": []
+  "active": "ba7c8db7415ce509",
+  "lastOpenFiles": [
+    "Day 7/Day 7.md"
+  ]
 }
